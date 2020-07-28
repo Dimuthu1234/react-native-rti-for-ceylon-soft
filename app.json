@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "RTI Sri Lanka Citizen",
+    "slug": "RTI-Sri-Lanka-Citizen",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "sdkVersion":"37.0.0",
+    "orientation": "portrait",
+    "facebookScheme": "fb691089538332145",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.procons.rticitizen",
+      "buildNumber": "1.0.1"
+    },
+    "android": {
+      "package": "com.procons.rticitizen",
+      "versionCode": 4,
+      "permissions": [],
+      "icon": "./assets/icon.png"
+    },
+    "description": ""
+  }
+}
